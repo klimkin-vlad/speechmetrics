@@ -22,7 +22,7 @@ setup(
 	    # and there is a pip3 conflict if we have the following
 	    # line.
         #'gammatone',
-        'pypesq' @ https://github.com/vBaiCai/python-pesq,
+        'pypesq @ git+https://github.com/vBaiCai/python-pesq',
         'srmrpy',
         'pesq',
     ],
