@@ -23,7 +23,7 @@ setup(
 	    # line.
         #'gammatone',
         'pypesq @ git+https://github.com/vBaiCai/python-pesq',
-        'srmrpy',
+        'srmpy',
         'pesq',
     ],
     include_package_data=True
